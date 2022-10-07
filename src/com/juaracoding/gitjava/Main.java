@@ -5,5 +5,6 @@ public class Main {
         //github
         System.out.println("Hello world!");
         System.out.println("Tambahan coding");
+        System.out.println("ini dari widya");
     }
 }
